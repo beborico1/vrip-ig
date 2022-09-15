@@ -37,7 +37,7 @@ function Header() {
 
         <div onClick={()=>router.push("/")} className="relative lg:hidden w-12 flex-shrink-0 cursor-pointer">
             <Image
-                src="https://drive.google.com/uc?export=view&id=1G-nfrOWjZCgKDvPmAWetLhZAXi3iSAnY"
+                src="https://play-lh.googleusercontent.com/RyoQTmHnxsxPYabsETmWVXHtLorVh_yOO48hsdv2VmI-Uki4qt5c5vV1cicJODV56A4"
                 layout="fill"
                 objectFit="contain"
             />
