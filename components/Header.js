@@ -68,7 +68,7 @@ function Header() {
                     3
                   </div>
                 </div>
-                <PlusCircleIcon onClick={()=>setOpen(true)} className="navBtn"/>
+                <PlusCircleIcon onClick={()=>setOpen(true)} className="h-6 md:inline-flex cursor-pointer hover:scale-125 transition-all duration-150 ease-out;"/>
                 <UserGroupIcon className="navBtn"/>
                 <HeartIcon className="navBtn"/>
                 <img 
