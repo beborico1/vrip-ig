@@ -4,7 +4,8 @@ const nextConfig = {
   swcMinify: true,
   images: {
     domains: [
-      "fundacion-affinity.org"
+      "i.im.ge",
+      "im.ge"
     ],
   },
 }

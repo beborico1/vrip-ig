@@ -29,7 +29,7 @@ function Header() {
       <div className="flex justify-between max-w-6xl mx-5 xl:mx-auto">
         <div onClick={()=>router.push("/")} className="relative hidden lg:inline-grid w-24 cursor-pointer">
             <Image
-                src="https://drive.google.com/uc?export=view&id=1aE1Z5THD1GCgaNO5CHS2Uu05l0L6DESR"
+                src="https://i.im.ge/2022/09/16/1uISZp.Vrip-4-copia.png"
                 layout="fill"
                 objectFit="contain"
             />
@@ -37,7 +37,7 @@ function Header() {
 
         <div onClick={()=>router.push("/")} className="relative lg:hidden w-12 flex-shrink-0 cursor-pointer">
             <Image
-                src="https://www.fundacion-affinity.org/sites/default/files/los-10-sonidos-principales-del-perro.jpg"
+                src="https://i.im.ge/2022/09/16/1uIXGM.v-1-1.png"
                 layout="fill"
                 objectFit="contain"
             />
