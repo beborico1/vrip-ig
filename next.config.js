@@ -4,7 +4,8 @@ const nextConfig = {
   swcMinify: true,
   images: {
     domains: [
-      "drive.google.com"
+      "drive.google.com",
+      "play-lh.googleusercontent.com"
     ],
   },
 }
